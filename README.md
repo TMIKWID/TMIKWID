@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TMIKWID
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Lua,C++,C+,C# and maybe Possible
-- 💞️ I’m looking to collaborate on almost anygame willing to teach me how to code
-- 📫 How to reach me by discord (Username:glitchy_ttg)(Email:glitchyttg@gmail.com)
+- 👀 I’m interested in Games,Neural Networks,LLMs,Coding....,Robotics
+- 🌱 I’m currently learning Lua,C++,C+,C# and Python
+- 💞️ I’m looking to collaborate on almost anyproject
+- 📫 How to reach me by discord (Username:trust_me_ik)(Email:glitchyttg@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
